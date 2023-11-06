@@ -1,6 +1,7 @@
 # Create two tuples with student information
 student1 = (1, 20, "Tashkent")
 student2 = (2, 22, "Tashkent")
+student3 = (3, 24, "Andijon")
 
 # Compare the information of the two students
 if student1 == student2:
